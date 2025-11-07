@@ -32,7 +32,7 @@ const Projects = () => {
       description: 'Software em Python que se conecta à APIBrasil para consulta de dados de CPF. Aceita CPF único ou planilha Excel com múltiplos CPFs, retornando dados organizados em planilha. Inclui sistema de controle de saldo.',
       image: '/images/consulta.png',
       tags: ['Python', 'API', 'Excel'],
-      link: '#',
+      link: 'https://github.com/gustavocristovam/SoftwareApiBrasil',
     },
     {
       title: 'BlackJack',
